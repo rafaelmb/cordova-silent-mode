@@ -5,7 +5,7 @@ This Cordova plugin checks if the phone ringer has been set to silent mode. Plea
 ## Installation
 
 ```bash
-cordova plugin add https://github.com/francois-p-peloquin/cordova-silent-mode
+cordova plugin add https://github.com/flexi-xu/cordova-silent-mode
 ```
 
 ## Usage
